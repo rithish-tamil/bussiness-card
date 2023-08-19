@@ -1,0 +1,21 @@
+body{
+    margin:20px;
+}
+.img-zoro{
+    width:200px;
+    height:150px;
+}
+.card{
+    padding:20px;
+    display:flex;
+    width: 450px;
+    justify-content: space-around;
+    margin:0 auto;
+    background-color: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+    color:#2b2839;
+    font-family: verdana;
+}
+.card1{
+    text-align: center;
+}
